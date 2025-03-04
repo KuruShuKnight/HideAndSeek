@@ -1,1 +1,1 @@
-# HideAndSeek
+# HideAndSeekREADME file update
